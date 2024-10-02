@@ -67,14 +67,18 @@ The program is developed using C and is implemented as follows:
 
 ### Testing
 
-Compiler: GNU C
+Requirements:
+
+Compiler : GNU C
 System: Linux OS - Ubuntu
+
 Follow the below instructions to run the program:
-Step 1: Open terminal.
-Step 2: Compile and build source code.
-Command: gcc -o mysh myShell.c
-Step 3: Run the executable/object file.
-Command: ./mysh
+
+    Step 1: Open terminal.
+    Step 2: Compile and build source code.
+        Command: gcc -o mysh myShell.c
+    Step 3: Run the executable/object file.
+        Command: ./mysh
 
 ### Example testcase
 
